@@ -1,0 +1,380 @@
+[
+  {
+    "recentYear": 2016,
+    "role": "Security Network Analyst",
+    "expDescription": "Respond quickly and accurately during critical security incidents.",
+    "leadershipRank": "2",
+    "developerRank":"0"
+  },
+  {
+    "recentYear":2016,
+    "role": "Security Network Analyst",
+    "expDescription": "Analyze network traffic and logs to find indicators of compromise.",
+    "leadershipRank":"2",
+    "developerRank":"2"
+  },
+  {
+    "recentYear":2016,
+    "role": "Security Network Analyst",
+    "expDescription":"Maintain knowledge of current information security news.",
+    "leadershipRank":"4",
+    "developerRank":"1"
+  },
+  {
+    "recentYear":2016,
+    "role": "Security Network Analyst",
+    "expDescription":"Collaborate with others to confirm malicious incidents.",
+    "leadershipRank":"7",
+    "developerRank":"0"
+  },
+  {
+    "recentYear":2016,
+    "role": "Security Network Analyst",
+    "expDescription":"Interact and communicate with clients to determine best course of action during incidents.",
+    "leadershipRank":"7",
+    "developerRank":"2"
+  },
+  {
+    "recentYear":2016,
+    "role": "Security Network Analyst",
+    "expDescription":"Update documentation during changes to infrastructure and operating procedures for each customer.",
+    "leadershipRank":"5",
+    "developerRank":"3"
+  },
+  {
+    "recentYear":2016,
+    "role": "Security Network Analyst",
+    "expDescription":"Develop new alerts to help quickly identify emerging threats.",
+    "leadershipRank":"3",
+    "developerRank":"5"
+  },
+  {
+    "recentYear":2016,
+    "role": "Owner - Small Business",
+    "expDescription":"Created a customer-centric employee culture which strives for 100% customer loyalty.",
+    "leadershipRank":"8",
+    "developerRank":"0"
+  },
+  {
+    "recentYear":2016,
+    "role": "Owner - Small Business",
+    "expDescription":"Trained and motivated employees so that they have the proper skills and attitude needed for serving a community.",
+    "leadershipRank":"6",
+    "developerRank":"3"
+  },
+  {
+    "recentYear":2016,
+    "role": "Owner - Small Business",
+    "expDescription":"Purchased, received, and organized different retail products for the cafe. Sales success increases when the product is on the shelf and ready.",
+    "leadershipRank":"2",
+    "developerRank":"3"
+  },
+  {
+    "recentYear":2016,
+    "role": "Owner - Small Business",
+    "expDescription":"Inventoried, purchased, and received the food supplies needed for the cafe.",
+    "leadershipRank":"3",
+    "developerRank":"3"
+  },
+  {
+    "recentYear":2016,
+    "role": "Owner - Small Business",
+    "expDescription":"Communicated and collaborated with suppliers on product quality, discounts, and invoice corrections.",
+    "leadershipRank":"6",
+    "developerRank":"1"
+  },
+  {
+    "recentYear":2016,
+    "role": "Owner - Small Business",
+    "expDescription":"Organized the food preparation efforts so that the cafe would always have food ready for construction into something delicious. Preparing food is 50% of a food establishment's operations.",
+    "leadershipRank":"5",
+    "developerRank":"1"
+  },
+  {
+    "recentYear":2016,
+    "role": "Owner - Small Business",
+    "expDescription":"Built a community around the juice bar so that this is not my juice bar, but their (the customers') juice bar. ",
+    "leadershipRank":"8",
+    "developerRank":"2"
+  },
+  {
+    "recentYear":2016,
+    "role": "Owner - Small Business",
+    "expDescription":"Retained approval from various local regulatory authorities (ServSafe license and local county health inspections).",
+    "leadershipRank":"6",
+    "developerRank":"2"
+  },
+  {
+    "recentYear":2016,
+    "role": "Owner - Small Business",
+    "expDescription":"Tracked inventory item costs/quality for comparison between suppliers.",
+    "leadershipRank":"4",
+    "developerRank":"3"
+  },
+  {
+    "recentYear":2016,
+    "role": "Owner - Small Business",
+    "expDescription":"Maintained bookkeeping records.",
+    "leadershipRank":"3",
+    "developerRank":"2"
+  },
+  {
+    "recentYear":2015,
+    "role": "Technical Project Manager",
+    "expDescription":"Managed a cross-functional project team to integrate UNIX and Windows platform authentication and authorization. Included setting checkpoints, defining requirements, and communicating project status to stakeholders.",
+    "leadershipRank":"8",
+    "developerRank":"2"
+  },
+  {
+    "recentYear":2015,
+    "role": "Technical Project Manager",
+    "expDescription":"Leading a project team to implement a scalable DNS service for storing application service locations in CNAME alias records. Using Agile mindset with Scrum methodology.",
+    "leadershipRank":"10",
+    "developerRank":"5"
+  },
+  {
+    "recentYear":2015,
+    "role": "WebSphere System Analyst 2",
+    "expDescription":"Troubleshot issues with applications contained within the WebSphere environment.",
+    "leadershipRank":"3",
+    "developerRank":"6"
+  },
+  {
+    "recentYear":2015,
+    "role": "WebSphere System Analyst 2",
+    "expDescription":"Developed automated processes for expanding the WebSphere infrastructure using mixtures of scripting languages.",
+    "leadershipRank":"6",
+    "developerRank":"8"
+  },
+  {
+    "recentYear":2015,
+    "role": "WebSphere System Analyst 2",
+    "expDescription":"Provided first-response on-call support for emergency issues related to WebSphere infrastructure.",
+    "leadershipRank":"6",
+    "developerRank":"5"
+  },
+  {
+    "recentYear":2015,
+    "role": "WebSphere System Analyst 2",
+    "expDescription":"Collaborated closely with other support teams to identify problems and developed efficient solutions.",
+    "leadershipRank":"6",
+    "developerRank":"5"
+  },
+  {
+    "recentYear":2015,
+    "role": "WebSphere System Analyst 2",
+    "expDescription":"Developed automated process to verify two cells and eliminate customer impact while application code is updated.",
+    "leadershipRank":"5",
+    "developerRank":"7"
+  },
+  {
+    "recentYear":2015,
+    "role": "WebSphere System Analyst 2",
+    "expDescription":"Analyzed performance of Java Virtual Machines (JVMs) and tuned their parameters to be more efficient.",
+    "leadershipRank":"3",
+    "developerRank":"6"
+  },
+  {
+    "recentYear":2015,
+    "role": "WebSphere System Analyst 2",
+    "expDescription":"Reviewed, verified and released new versions of procedural documentation.",
+    "leadershipRank":"4",
+    "developerRank":"5"
+  },
+  {
+    "recentYear":2015,
+    "role": "WebSphere System Analyst 2",
+    "expDescription":"Communicated with Network Security teams to determine which new applications will need firewall requests.",
+    "leadershipRank":"3",
+    "developerRank":"4"
+  },
+  {
+    "recentYear":2015,
+    "role": "WebSphere System Analyst 2",
+    "expDescription":"Deployed sets of performance metrics from CA’s APM to obtain more visibility into JVM performance.",
+    "leadershipRank":"3",
+    "developerRank":"6"
+  },
+  {
+    "recentYear":2015,
+    "role": "WebSphere System Analyst 2",
+    "expDescription":"Tested and deployed new features of CA’s APM to help support teams verify configuration file changes.",
+    "leadershipRank":"3",
+    "developerRank":"6"
+  },
+  {
+    "recentYear":2015,
+    "role": "WebSphere System Analyst 2",
+    "expDescription":"Cut HTTP logging by 50%, and improved manageability of the WebSphere cell by removing unused JVM definitions from the application clusters.",
+    "leadershipRank":"7",
+    "developerRank":"5"
+  },
+  {
+    "recentYear":2015,
+    "role": "WebSphere System Analyst 2",
+    "expDescription":"Improved application response time during server failure by grouping application clusters into smaller failover core groups.",
+    "leadershipRank":"7",
+    "developerRank":"7"
+  },
+  {
+    "recentYear":2015,
+    "role": "WebSphere System Analyst 2",
+    "expDescription":"Standardized configuration of all 120 application JVMs across 10 different nodes.",
+    "leadershipRank":"7",
+    "developerRank":"8"
+  },
+  {
+    "recentYear":2015,
+    "role": "WebSphere System Analyst 2",
+    "expDescription":"Decreased in-place application deployment time to WebSphere infrastructure from 12 hours to 6 hours through implementation of an active-passive cell structure, efficiency improvements in the nodeagents, and standardization of the java virtual machine properties.",
+    "leadershipRank":"7",
+    "developerRank":"8"
+  },
+  {
+    "recentYear":2015,
+    "role": "WebSphere System Analyst 2",
+    "expDescription":"Architected model infrastructure and successfully deployed the model in new isolated customer environments for Soarian Scheduling application.",
+    "leadershipRank":"7",
+    "developerRank":"8"
+  },
+  {
+    "recentYear":2013,
+    "role": "Service Desk Technician 2",
+    "expDescription":"Provided first-tier technical support to internal users including password resets, Microsoft Office troubleshooting, and gathering information about application-specific modifications and problems.",
+    "leadershipRank":"2",
+    "developerRank":"1"
+  },
+  {
+    "recentYear":2013,
+    "role": "Service Desk Technician 2",
+    "expDescription":"Documented new knowledge, and reviewed previous procedural documents for accuracy.",
+    "leadershipRank":"2",
+    "developerRank":"2"
+  },
+  {
+    "recentYear":2013,
+    "role": "Service Desk Technician 2",
+    "expDescription":"Identified serious problems quickly and worked with the incident management teams to gather more information from end users for rapid resolution.",
+    "leadershipRank":"3",
+    "developerRank":"1"
+  },
+  {
+    "recentYear":2013,
+    "role": "Service Desk Technician 2",
+    "expDescription":"Introduced automated form to standardize and simplify escalations sent to other support teams.",
+    "leadershipRank":"3",
+    "developerRank":"7"
+  },
+  {
+    "recentYear":2013,
+    "role": "Service Desk Technician 2",
+    "expDescription":"Worked together with other team members to improve first-tier resolution rate from 30% to 60%.",
+    "leadershipRank":"4",
+    "developerRank":"1"
+  },
+  {
+    "recentYear":2013,
+    "role": "Service Desk Technician 2",
+    "expDescription":"Learned Agile methodologies, and best practices for supporting, communicating, and working with Agile Scrum teams.",
+    "leadershipRank":"2",
+    "developerRank":"0"
+  },
+  {
+    "recentYear":2011,
+    "role": "System Administrator",
+    "expDescription":"Developed and maintained all group policies, customized security permissions for order management software, and configured, installed, and connected switches to network.",
+    "leadershipRank":"6",
+    "developerRank":"4"
+  },
+  {
+    "recentYear":2011,
+    "role": "System Administrator",
+    "expDescription":"Oversaw automated software deployment, departmental user interface customization, and conditional deployment of such features as files, shortcuts, and registry settings.",
+    "leadershipRank":"4",
+    "developerRank":"4"
+  },
+  {
+    "recentYear":2011,
+    "role": "System Administrator",
+    "expDescription":"Administered SIP phones and PBX server, set up and deployed phone configuration files through TFTP server, and added new users, phones, and designed routes for calls via server software.",
+    "leadershipRank":"4",
+    "developerRank":"4"
+  },
+  {
+    "recentYear":2011,
+    "role": "System Administrator",
+    "expDescription":"Ensured user productivity by effectively providing support and troubleshooting / resolving issues.",
+    "leadershipRank":"4",
+    "developerRank":"0"
+  },
+  {
+    "recentYear":2011,
+    "role": "System Administrator",
+    "expDescription":"Designed, planned, and implemented strategy to break network (four VLANs routing through layer three switch) into several VLANs.",
+    "leadershipRank":"6",
+    "developerRank":"5"
+  },
+  {
+    "recentYear":2011,
+    "role": "System Administrator",
+    "expDescription":"Designed an initial AD Domain, then migrated all computers to AD from a workgroup environment.",
+    "leadershipRank":"6",
+    "developerRank":"5"
+  },
+  {
+    "recentYear":2011,
+    "role": "System Administrator",
+    "expDescription":"Reduced new user setup time / errors (with four out of five new users not requiring any help desk services during introductory period) by creating standardized hire and exit forms.",
+    "leadershipRank":"5",
+    "developerRank":"3"
+  },
+  {
+    "recentYear":2011,
+    "role": "System Administrator",
+    "expDescription":"Enabled real time collaboration for internal users by setting up Openfire to pull users and passwords from Active Directory through Lightweight Directory Access Protocol (LDAP).",
+    "leadershipRank":"4",
+    "developerRank":"3"
+  },
+  {
+    "recentYear":2011,
+    "role": "System Administrator",
+    "expDescription":"Configured and managed Exchange Server 2010 and Symantec Endpoint Protection deployments.",
+    "leadershipRank":"8",
+    "developerRank":"6"
+  },
+  {
+    "recentYear":2011,
+    "role": "System Administrator",
+    "expDescription":"Implemented powerful open-source ticket and asset tracking system called GLPI.",
+    "leadershipRank":"5",
+    "developerRank":"6"
+  },
+  {
+    "recentYear":2011,
+    "role": "System Administrator",
+    "expDescription":"Developed a application used for querying desktop hardware assets through WMI and C#.",
+    "leadershipRank":"4",
+    "developerRank":"8"
+  },
+  {
+    "recentYear":2008,
+    "role": "Team Leader - School Project",
+    "expDescription":"Guided and organized programming project focused on binding data to different controls and presenting the information from sample database effectively.",
+    "leadershipRank":"6",
+    "developerRank":"7"
+  },
+  {
+    "recentYear":2003,
+    "role": "Senior Patrol Leader - BSA",
+    "expDescription":"Led troop of 20 young men in weekly meetings, camping trips, and personal development.",
+    "leadershipRank":"8",
+    "developerRank":"0"
+  },
+  {
+    "recentYear":2003,
+    "role": "Senior Patrol Leader - BSA",
+    "expDescription":"Collaborated with other patrol leaders on a long-term roadmap for camping trips and monthly themes for the next year.",
+    "leadershipRank":"8",
+    "developerRank":"0"
+  }
+]
