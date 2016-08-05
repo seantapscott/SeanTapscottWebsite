@@ -1,1 +1,21 @@
-<div class="container-fluid"
+<div class="container-fluid">
+<div class="panel panel-default">
+  <div class="panel-heading">Experiences</div>
+  <div class="panel-body">
+    <p>Select Leadership Rank, Developer Rank, or Chronological to switch between different views.</p>
+    <select style="margin-bottom:8px" class="form-control" ng-model="$ctrl.orderProp">
+      <option value="-leadershipRank">Leadership Rank</option>
+      <option value="-developerRank">Developer Rank</option>
+      <option value="-recentYear">Chronological</option>
+    </select>
+
+
+    <ul class="list-group experiences">
+      <li class="list-group-item" ng-repeat="experience in $ctrl.experiences | orderBy:$ctrl.orderProp">
+        <h4 class="list-group-item-heading">{{experience.role}}  <p style="text-align:right">{{experience.recentYear}}</p></h4>
+        <p style="text-align:left">{{experience.expDescription}}</p>
+      </li>
+    </ul>
+  </div>
+</div>
+</div>

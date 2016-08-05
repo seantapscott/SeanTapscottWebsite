@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="resumeRank">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -20,7 +20,16 @@
     <!-- Custom styles for this template -->
     <link href="cover.css" rel="stylesheet">
 
+    <!-- AngularJS components and templates -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.js"></script>
+    <script src="app.module.js"></script>
+    <script src="experienceList/experienceList.module.js"></script>
+    <script src="experienceList/experienceList.component.js"></script>
 
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <!--<script src="bootstrap/assets/js/ie-emulation-modes-warning.js"></script>-->
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -37,13 +46,13 @@
 
         <div class="cover-container">
 
-          <div class="masthead clearfix">
+          <div class="masthead clearfix" style="position:inherit">
             <div class="inner">
               <h3 class="masthead-brand">Sean Tapscott</h3>
               <nav>
                 <ul class="nav masthead-nav">
-                  <li class="active"><a href="index.html">Home</a></li>
-                  <li><a href="resume.html">Resume</a></li>
+                  <li><a href="index.html">Home</a></li>
+                  <li class="active"><a href="resume.html">Resume</a></li>
                   <li><a href="about.html">About</a></li>
                 </ul>
               </nav>
@@ -51,27 +60,12 @@
           </div>
 
           <div class="inner cover">
-            <h1 class="cover-heading">Welcome.</h1>
-            <p class="lead">Welcome to the personal page of Sean Tapscott.</p>
-            <div class="col-md-12 letter">
-              <p>I have just completed development of a new way to explore a resume. My Resume now features an ordered, Angular-powered list of greatest achievements.</p>
-              <ul class="fa-ul">
-                <li><i class="fa-li fa fa-users" aria-hidden="true"></i><strong>Select "Leadership Rank" to discover Sean's greatest achievements.</strong></li>
-                  <ul>
-                    <li>From architecting technical solutions to leading collaborative efforts, Sean has the experience necessary to take your team forward.</li>
-                    <li>From Boy Scouts, to college clubs, and now the professional world, Sean has the knowledge, skills, and courage necessary to encourage others to deliver their very best.</li>
-                  </ul>
-                <li><i class="fa-li fa fa-code-fork" aria-hidden="true"> </i><strong>Select "Developer Rank" to find Sean's favorite technical projects.</strong></li>
-                  <ul>
-                    <li>With Sean's strength in system analysis and strong programming background, he has shown that there is no project, application, or language that cannot be learned, understood, and then improved upon.</li>
-                    <li>He has developed applications and scripts in many languages including python, C#, VB, vbscript, SQL, HTML, CSS, JavaScript, and many more.</li>
-                  </ul>
-              </ul>
-            </div>
+            <h1 class="cover-heading">Sean Tapscott's Resume</h1>
 
+            <experience-List></experience-List>
           </div>
 
-          <div class="mastfoot">
+          <div class="mastfoot" style="position:inherit">
             <div class="inner">
               <p>Developed by Sean Tapscott ©2016.</p>
               <p>Powered by Bootstrap, JQuery, and AngularJS.</p>
@@ -83,13 +77,14 @@
       </div>
 
     </div>
-
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
     <script src="bootstrap/dist/js/bootstrap.min.js"></script>
-    <script src="https://use.fontawesome.com/96df35760a.js"></script>
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug
+    <script src="bootstrap/assets/js/ie10-viewport-bug-workaround.js"></script>-->
   </body>
 </html>

@@ -31,8 +31,6 @@ html,
 body {
   height: 100%;
   background-color: #063852;
-}
-body {
   color: #fff;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
@@ -121,7 +119,9 @@ body {
   font-weight: bold;
 }
 
-
+h1 {
+  margin-bottom: 30px;
+}
 /*
  * Footer
  */
@@ -164,4 +164,26 @@ body {
   .cover-container {
     width: 700px;
   }
+}
+
+.cover-heading{
+  color:rgba(240,129,13,.9);
+}
+
+.panel-default{
+  color:#eee;
+  border-color:#011A27;
+  background-color:#011A27;
+  box-shadow: 0px 8px 60px #000;
+
+}
+.list-group{
+  background-color:#094f73;
+}
+.list-group-item{
+  background-color:inherit;
+}
+.letter{
+  text-align:left;
+  line-height: 20px;
 }
